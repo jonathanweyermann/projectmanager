@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reason: MyString
+  begintime: 2015-05-20 19:42:06
+  endtime: 2015-05-20 19:42:06
+  iscomplete: false
+  pomodoro_id: 1
+
+two:
+  reason: MyString
+  begintime: 2015-05-20 19:42:06
+  endtime: 2015-05-20 19:42:06
+  iscomplete: false
+  pomodoro_id: 1
